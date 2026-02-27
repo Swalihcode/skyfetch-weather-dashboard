@@ -131,4 +131,4 @@ function showLoading() {
     `;
 
     weatherDisplay.innerHTML = loadingHTML;
-}
+};
